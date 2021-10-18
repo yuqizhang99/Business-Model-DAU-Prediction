@@ -8,7 +8,7 @@ Normally,when we are optimizing performance of certain products, the unknown imp
 
 
 ## Reference
-https://www.profitwell.com/recur/all/daily-active-users
+[DAU definition](https://www.profitwell.com/recur/all/daily-active-users/)
 
 我们的问题
 ● 我们常常会存在此类疑问：
