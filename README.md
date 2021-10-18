@@ -1,14 +1,15 @@
 # Business Model DAU prediction
 
 ## Problems
-Normally,when we are optimizing performance of certain products, the unknown impact of recent variation of DNU, DAU or retention rate will impede our decision to some extent. Although A/B test can be used to deal with this problem, whether the effect analyzed through the test will show up again or at least reappear similarly is indeed affected by various controllable and uncontrollable factors. Therefore, a more general model is required.
+Normally,when we are optimizing performance of certain products, the unknown impact of recent variation of DAU, DNU or retention rate will impede our decision to some extent. Although A/B test can be used to deal with this problem, whether the effect analyzed through the test will show up again or at least reappear similarly is indeed affected by various controllable and uncontrollable factors. Therefore, a more general model is required.
 
 ## Definition
-- DAU: abbr., daily active user, amount of di
-
+- DAU: abbr., daily active users, amount of users who log in and engage with your product on a daily basis,See Reference[1].
+- DNU: abbr., daily new users, amount of users who
 
 ## Reference
-[DAU definition](https://www.profitwell.com/recur/all/daily-active-users/)
+-[1][DAU definition](https://www.profitwell.com/recur/all/daily-active-users/)
+-[2][]
 
 我们的问题
 ● 我们常常会存在此类疑问：
