@@ -139,10 +139,8 @@ Another method utilizes machine learning by learning from history data the same 
 > 
 
 Two adjusting models are used:
-> $$ \begin{equation}DAU_{adjusted} = b*DAU_{pre} + DAU_{t}\end{equation} 
-\\
-\begin{equation}DAU_{adjusted} = (a \cdot t + b)DAU_{pre} + DAU_{t}\end{equation}
-> $$
+> $$ \begin{equation}DAU_{adjusted} = b*DAU_{pre} + DAU_{t}\end{equation} $$
+> $$ \begin{equation}DAU_{adjusted} = (a \cdot t + b)DAU_{pre} + DAU_{t}\end{equation} $$
 
 class
 DAUAdjustment.DAUAdjustor provides method to estimate $DAU_{n}$ in machine learning way.
