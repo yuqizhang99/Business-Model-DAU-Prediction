@@ -1,6 +1,7 @@
 # README
 ## INTRO
 **To display LaTeX equations in this doc, I suggest either installing [Chrome Extension:MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima) or downloading this doc**
+
 to be continued
 <br>
 
