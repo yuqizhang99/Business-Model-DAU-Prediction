@@ -8,7 +8,7 @@ to be continued
 <br>
 
 ## DENOTATION
-1. $Day_{t}$ : initial day is denoted as $Day_{0}$,$Day_{t}$ is the day t days after $Day_{0}$
+1. $Day_t $ : initial day is denoted as $Day_{0}$,$Day_{t}$ is the day t days after $Day_{0}$
 2. $DAU_{t}$ : daily active users on $Day_{t}$
 3. $DNU_{t}$ : daily new users on $Day_{t}$
 4. $R_{t}^{s}$: users who are active on $Day_{s}$ but also active on $Day_{s+t}$
